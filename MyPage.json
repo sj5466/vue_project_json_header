@@ -1,0 +1,46 @@
+{
+  "mylist": [
+    {
+      "id": 0,
+      "image": "../../assets/image/mylist1.png",
+      "title": "팔레드 신",
+      "score": "4.6",
+      "desc": "종로구 - 중식"
+    },
+    {
+      "id": 1,
+      "image": "../../assets/image/mylist2.png",
+      "title": "반티엔야오",
+      "score": "4.4",
+      "desc": "강남구 - 중식"
+    },
+    {
+      "id": 2,
+      "image": "../../assets/image/mylist3.png",
+      "title": "농민백암순대",
+      "score": "4.8",
+      "desc": "강남구 - 한식"
+    },
+    {
+      "id": 3,
+      "image": "../../assets/image/mylist4.png",
+      "title": "농민백암순대",
+      "score": "4.8",
+      "desc": "강남구 - 한식"
+    },
+    {
+      "id": 4,
+      "image": "../../assets/image/mylist4.png",
+      "title": "농민백암순대",
+      "score": "4.8",
+      "desc": "강남구 - 한식"
+    },
+    {
+      "id": 5,
+      "image": "../../assets/image/mylist3.png",
+      "title": "농민백암순대",
+      "score": "4.8",
+      "desc": "강남구 - 한식"
+    }
+  ]
+}
